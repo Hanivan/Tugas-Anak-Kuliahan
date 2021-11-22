@@ -70,7 +70,7 @@ int showMenu() {
        << endl;
 
   cout << "--------------------------------" << endl;
-  cout << "Silahkan pillih menu: " << endl;
+  cout << "Silahkan pilih menu: " << endl;
   cout << "1. Kalkulator" << endl;
   cout << "2. Dadu Digital" << endl;
   cout << "3. Cek Grade Nilai" << endl;
